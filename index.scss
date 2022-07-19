@@ -1,0 +1,10 @@
+body {
+  background: rgb(11, 0, 105);
+  text-align: center;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+@import "./scss/reset";
+@import "./scss/alarm";
+@import "./scss/button";
